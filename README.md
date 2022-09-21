@@ -2,9 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## npm
+
+npm is the package manager you'll need to use for this project. You can check if you have it installed by running `npm -v` from your terminal and seeing if you get a response saying `command not found` or a version number. Unless you see `command not found`, you have npm installed.
+
+If you don't have it installed, you can follow [these instructions](https://treehouse.github.io/installation-guides/mac/node-mac.html) to install it
+
 ## Available Scripts
 
-In the project directory, you can run:
+In the terminal, once you have navigated to the project directory, you can run:
+
+### `npm install`
+
+Installs all dependencies to get started. You should need to run this immediately after cloning and never again (unless you come back to this project months later and need to update depenedencies)
 
 ### `npm start`
 
